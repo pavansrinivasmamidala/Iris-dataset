@@ -1,2 +1,2 @@
-# Machine-learning-Algorithms
-Implementing Machine Learning Algorithms on Different Data Sets
+# Iris-dataset
+Implementing Machine Learning Algorithms on Iris Data Sets
